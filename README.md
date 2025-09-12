@@ -75,7 +75,7 @@
 <body>
 
   <header>
-    <h1>HYYYYYYYYYYYYYYYYYYYYYYYYY</h1>
+    <h1>Hi, I'm Sahra Ourari 🌸</h1>
     <p>Data Analyst | Ingénieure Data | Passionnée par l’IA</p>
   </header>
 
